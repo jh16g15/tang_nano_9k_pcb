@@ -7,5 +7,3 @@ This board is designed to add extra interfaces to the Tang Nano 9K, such as:
 - Trackball
 - PS/2 Keyboard
 - Audio (I2S DAC)
-- 
-
